@@ -1,6 +1,6 @@
 ---
 name: Product Backlog
-about: Must persist counter across restarts
+about: Need a service that has a counter
 title: ''
 labels: ''
 assignees: ''
