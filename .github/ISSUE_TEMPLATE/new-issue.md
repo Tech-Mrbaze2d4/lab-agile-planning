@@ -1,5 +1,5 @@
 ---
-name: Sprint Backlog
+name: New Issue
 about: Deploy Service To The Cloud
 title: ''
 labels: ''
