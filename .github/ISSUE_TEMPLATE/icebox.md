@@ -1,6 +1,6 @@
 ---
-name: 'User Story '
-about: This Template is creating User Story
+name: Icebox
+about: Must allow multiple counters
 title: ''
 labels: ''
 assignees: ''
