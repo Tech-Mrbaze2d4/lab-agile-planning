@@ -1,6 +1,6 @@
 ---
 name: 'Product Backlog '
-about: Need a service that has a counter
+about: Counters can be reset story
 title: ''
 labels: ''
 assignees: ''
